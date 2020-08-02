@@ -40,5 +40,5 @@ document.querySelector("#rango5").addEventListener("input",(e)=>{
 function validar(){
         const res=div.style.cssText.split(";");
         resultadoCss.innerHTML=res;
-        console.log(res);
+    
 }
